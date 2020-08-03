@@ -1,0 +1,2 @@
+claimReasonText,memberHCId,transactionPath,serviceStartDate,providerTaxId,memberCode,providerLicenseNo,accumName,sourceSystemClaimId,memberContract,serviceEndDate,lastUpdtUsrId,organizationCode,visits,claimSource,providerNPIId,memberSource,accumStartDate,claimId,days,memberCase,accumEndDate,amount,memberTier,productType,diagnosisCode,claimNetwork
+NA,17A000018,EA,5/1/2019,0,10,0,BASINDED,2019008CK00180999,AAAA,5/1/2019,AUTOMATION,ANT,0,898,1871538769,808,1/1/2019,2019008CK00180999,0,AUTO001,12/31/2019,50,0,RX,0,T1
